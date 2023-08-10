@@ -3,7 +3,7 @@ package Rpg;
 public class Mago extends Humanoide {
 	
 	public Mago() {
-		ID = "Arthur";
+		ID = "Mago";
 		vidaMax = 10;
 		energia = 5;
 		pExp = 0;

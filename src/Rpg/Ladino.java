@@ -3,7 +3,7 @@ package Rpg;
 public class Ladino extends Humanoide {
 	
 	public Ladino() {
-		ID = "Luma";
+		ID = "Ladino";
 		vidaMax = 10;
 		energia = 4;
 		pExp = 0;

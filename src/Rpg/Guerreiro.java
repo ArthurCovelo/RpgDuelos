@@ -3,7 +3,7 @@ package Rpg;
 public class Guerreiro extends Humanoide {
 	
 	public Guerreiro() {
-		ID = "Arthur";
+		ID = "Guerreiro";
 		vidaMax = 10;
 		energia = 4;
 		pExp = 0;

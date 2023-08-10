@@ -3,7 +3,7 @@ package Rpg;
 public class Templario extends Humanoide {
 	
 	public Templario() {
-		ID = "Luma";
+		ID = "Templario";
 		vidaMax = 10;
 		energia = 4;
 		pExp = 0;
