@@ -1,4 +1,4 @@
-# Projeto RpgArthur
+# Projeto RpgDuelos
 
 ![preview](./.github/RPGArthur.gif)
 
